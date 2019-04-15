@@ -15,3 +15,7 @@ Quick Links:
 - Discord Server: [here](https://discord.gg/XJjSHYB)
 
 - Github Repo (This): [here](https://github.com/catsarecoo/activstudio)
+
+<a href="https://botsfordiscord.com/bots/548132633234767882" >
+            <img src="https://botsfordiscord.com/api/bot/548132633234767882/widget" title="Visit ActivStudio listed on Bots for Discord!" alt="ActivStudio's Widget Failed to Load" /></a>
+        

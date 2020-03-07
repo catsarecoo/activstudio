@@ -20,3 +20,4 @@ Quick Links:
             <img src="https://botsfordiscord.com/api/bot/548132633234767882/widget" title="Visit ActivStudio listed on Bots for Discord!" alt="ActivStudio's Widget Failed to Load" /></a>
         
 
+[![Build Status](https://travis-ci.com/catsarecoo/activstudio.svg?branch=master)](https://travis-ci.com/catsarecoo/activstudio)

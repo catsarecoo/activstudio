@@ -24,3 +24,6 @@ Quick Links:
 [![Build Status](https://travis-ci.com/catsarecoo/activstudio.svg?branch=master)](https://travis-ci.com/catsarecoo/activstudio)
 
 <a href="https://snyk.io/test/github/catsarecoo/Discord-Modmail?targetFile=requirements.txt"><img src="https://snyk.io/test/github/catsarecoo/Discord-Modmail/badge.svg?targetFile=requirements.txt" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/catsarecoo/Discord-Modmail?targetFile=requirements.txt" style="max-width:100%;"></a>
+
+This is
+<img src="https://madewithlove.now.sh/gb?heart=true&template=for-the-badge&text=Peace" alt="Made with love in Peace"> 

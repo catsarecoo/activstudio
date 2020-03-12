@@ -1,6 +1,7 @@
 # activstudio
 ActivStudio Discord Bot.
 <img alt="GitHub" src="https://img.shields.io/github/license/catsarecoo/activstudio?style=for-the-badge">
+
 Get now at https://discordbots.org/bot/548132633234767882!
 
 Made with [discord.js,](https://github.com/discordjs/discord.js)

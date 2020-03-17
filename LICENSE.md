@@ -200,4 +200,4 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 
-Copyright 2019 ActivStudio Corp. All rights reserved. AczivStudio Corp. is not affliated with Apache.
+Copyright 2019 ActivStudio Corp. All rights reserved. ActivStudio Corp. is not affliated with Apache.

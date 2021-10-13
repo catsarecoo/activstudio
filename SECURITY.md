@@ -8,10 +8,8 @@ The following versions of ActivStudio are currently getting Security Updates
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
 | 5.0.x   | :white_check_mark: |
-| 4.0.x   | :white_check_mark: |
+| 4.0.x   | :x: |
 | < 4.0   | :x:                |
-
-NOTE: Version 4.0.x will be remain supported until 4/4/20
 
 ## Reporting a Vulnerability
 
